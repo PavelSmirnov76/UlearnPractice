@@ -1,0 +1,13 @@
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\netcoreapp3.1\Percent.exe
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\netcoreapp3.1\Percent.deps.json
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\netcoreapp3.1\Percent.runtimeconfig.json
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\netcoreapp3.1\Percent.runtimeconfig.dev.json
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\netcoreapp3.1\Percent.dll
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\netcoreapp3.1\Percent.pdb
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\netcoreapp3.1\Percent.csprojAssemblyReference.cache
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\netcoreapp3.1\Percent.AssemblyInfoInputs.cache
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\netcoreapp3.1\Percent.AssemblyInfo.cs
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\netcoreapp3.1\Percent.csproj.CoreCompileInputs.cache
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\netcoreapp3.1\Percent.dll
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\netcoreapp3.1\Percent.pdb
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\netcoreapp3.1\Percent.genruntimeconfig.cache

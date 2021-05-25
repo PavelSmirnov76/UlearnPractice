@@ -1,0 +1,16 @@
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\net5.0\Percent.exe
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\net5.0\Percent.deps.json
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\net5.0\Percent.runtimeconfig.json
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\net5.0\Percent.runtimeconfig.dev.json
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\net5.0\Percent.dll
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\net5.0\ref\Percent.dll
+C:\Users\cocac\Desktop\Практика ulearn\Percent\bin\Debug\net5.0\Percent.pdb
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\net5.0\Percent.csprojAssemblyReference.cache
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\net5.0\Percent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\net5.0\Percent.AssemblyInfoInputs.cache
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\net5.0\Percent.AssemblyInfo.cs
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\net5.0\Percent.csproj.CoreCompileInputs.cache
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\net5.0\Percent.dll
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\net5.0\ref\Percent.dll
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\net5.0\Percent.pdb
+C:\Users\cocac\Desktop\Практика ulearn\Percent\obj\Debug\net5.0\Percent.genruntimeconfig.cache
