@@ -1,0 +1,7 @@
+C:\Users\cocac\Desktop\Практика ulearn\Циклы\DragonFractal\bin\Debug\DragonFractal.exe.config
+C:\Users\cocac\Desktop\Практика ulearn\Циклы\DragonFractal\bin\Debug\DragonFractal.exe
+C:\Users\cocac\Desktop\Практика ulearn\Циклы\DragonFractal\bin\Debug\DragonFractal.pdb
+C:\Users\cocac\Desktop\Практика ulearn\Циклы\DragonFractal\obj\Debug\DragonFractal.csprojAssemblyReference.cache
+C:\Users\cocac\Desktop\Практика ulearn\Циклы\DragonFractal\obj\Debug\DragonFractal.csproj.CoreCompileInputs.cache
+C:\Users\cocac\Desktop\Практика ulearn\Циклы\DragonFractal\obj\Debug\DragonFractal.exe
+C:\Users\cocac\Desktop\Практика ulearn\Циклы\DragonFractal\obj\Debug\DragonFractal.pdb
