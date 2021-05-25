@@ -1,0 +1,8 @@
+C:\Users\cocac\Desktop\Практика ulearn\Ветвления\Pluralize\bin\Debug\rubles.txt
+C:\Users\cocac\Desktop\Практика ulearn\Ветвления\Pluralize\bin\Debug\Pluralize.exe.config
+C:\Users\cocac\Desktop\Практика ulearn\Ветвления\Pluralize\bin\Debug\Pluralize.exe
+C:\Users\cocac\Desktop\Практика ulearn\Ветвления\Pluralize\bin\Debug\Pluralize.pdb
+C:\Users\cocac\Desktop\Практика ulearn\Ветвления\Pluralize\obj\Debug\Pluralize.csprojAssemblyReference.cache
+C:\Users\cocac\Desktop\Практика ulearn\Ветвления\Pluralize\obj\Debug\Pluralize.csproj.CoreCompileInputs.cache
+C:\Users\cocac\Desktop\Практика ulearn\Ветвления\Pluralize\obj\Debug\Pluralize.exe
+C:\Users\cocac\Desktop\Практика ulearn\Ветвления\Pluralize\obj\Debug\Pluralize.pdb
